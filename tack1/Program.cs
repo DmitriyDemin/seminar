@@ -14,7 +14,7 @@ namespace seminar
             System.Console.WriteLine("да"); 
             }  
             else
-            System.Console.WriteLine("нет ");    
+            System.Console.WriteLine("нет");    
         }
     }
 }

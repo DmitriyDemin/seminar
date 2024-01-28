@@ -1,0 +1,5 @@
+D:\C#\seminar\obj\Debug\net8.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seminar\obj\Debug\net8.0\seminar.AssemblyInfoInputs.cache
+D:\C#\seminar\obj\Debug\net8.0\seminar.AssemblyInfo.cs
+D:\C#\seminar\obj\Debug\net8.0\seminar.csproj.CoreCompileInputs.cache
+D:\C#\seminar\obj\Debug\net8.0\seminar.sourcelink.json

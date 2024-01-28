@@ -1,0 +1,15 @@
+D:\C#\seminar\tack3\bin\Debug\net8.0\tack3.exe
+D:\C#\seminar\tack3\bin\Debug\net8.0\tack3.deps.json
+D:\C#\seminar\tack3\bin\Debug\net8.0\tack3.runtimeconfig.json
+D:\C#\seminar\tack3\bin\Debug\net8.0\tack3.dll
+D:\C#\seminar\tack3\bin\Debug\net8.0\tack3.pdb
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.AssemblyInfoInputs.cache
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.AssemblyInfo.cs
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.csproj.CoreCompileInputs.cache
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.sourcelink.json
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.dll
+D:\C#\seminar\tack3\obj\Debug\net8.0\refint\tack3.dll
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.pdb
+D:\C#\seminar\tack3\obj\Debug\net8.0\tack3.genruntimeconfig.cache
+D:\C#\seminar\tack3\obj\Debug\net8.0\ref\tack3.dll

@@ -1,0 +1,15 @@
+D:\C#\seminar\tack1\bin\Debug\net8.0\tack1.exe
+D:\C#\seminar\tack1\bin\Debug\net8.0\tack1.deps.json
+D:\C#\seminar\tack1\bin\Debug\net8.0\tack1.runtimeconfig.json
+D:\C#\seminar\tack1\bin\Debug\net8.0\tack1.dll
+D:\C#\seminar\tack1\bin\Debug\net8.0\tack1.pdb
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.AssemblyInfoInputs.cache
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.AssemblyInfo.cs
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.csproj.CoreCompileInputs.cache
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.sourcelink.json
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.dll
+D:\C#\seminar\tack1\obj\Debug\net8.0\refint\tack1.dll
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.pdb
+D:\C#\seminar\tack1\obj\Debug\net8.0\tack1.genruntimeconfig.cache
+D:\C#\seminar\tack1\obj\Debug\net8.0\ref\tack1.dll
