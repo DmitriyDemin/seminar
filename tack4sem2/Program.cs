@@ -12,17 +12,18 @@ namespace task4sem2
         {
             Stopwatch timer = new Stopwatch();
             timer.Start();
+            Console.Clear();
             int num;
-            for (num=1; num<200; num++)
             {
-            if ((num%7==0)&(num%23==0))
-            Console.WriteLine("yes - {0}", num);
-            timer.Stop();
-            // else
-            // Console.WriteLine("yes - {0}", num);
-            
+                Console.Write("введите целое число :  ");
+                num = int.Parse(Console.ReadLine()!);
+                if ((num % 7 == 0) & (num % 23 == 0))
+                    Console.WriteLine($"число {num} кратно одновременно 7 и 23");
+                else
+                    Console.WriteLine($"число {num} не кратно одновременно 7 и 23");;
+                timer.Stop();
             }
             Console.WriteLine("время расчета -{0}", timer.Elapsed);
-        } 
+        }
     }
 }
