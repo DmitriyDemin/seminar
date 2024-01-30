@@ -1,0 +1,15 @@
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.AssemblyInfoInputs.cache
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.AssemblyInfo.cs
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.csproj.CoreCompileInputs.cache
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.sourcelink.json
+D:\C#\seminar\tack4sem2\bin\Debug\net8.0\tack4sem2.exe
+D:\C#\seminar\tack4sem2\bin\Debug\net8.0\tack4sem2.deps.json
+D:\C#\seminar\tack4sem2\bin\Debug\net8.0\tack4sem2.runtimeconfig.json
+D:\C#\seminar\tack4sem2\bin\Debug\net8.0\tack4sem2.dll
+D:\C#\seminar\tack4sem2\bin\Debug\net8.0\tack4sem2.pdb
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.dll
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\refint\tack4sem2.dll
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.pdb
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\tack4sem2.genruntimeconfig.cache
+D:\C#\seminar\tack4sem2\obj\Debug\net8.0\ref\tack4sem2.dll
