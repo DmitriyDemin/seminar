@@ -29,6 +29,8 @@ namespace task5sem2
                 Console.WriteLine("номер координатной четверти - III");
             if ((X < 0) & (Y > 0))
                 Console.WriteLine("номер координатной четверти - IV");
+            else 
+               Console.WriteLine("точка на координатной оси"); 
             timer.Stop();
             Console.WriteLine("время расчета{0}", timer.Elapsed);
         }
